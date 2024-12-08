@@ -6,3 +6,4 @@ For 2024 I'm trying to do each solution in a different language:
 * day 3: emacs lisp
 * day 4: COBOL
 * day 5: Java
+* day 6: C
