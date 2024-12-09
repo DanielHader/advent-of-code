@@ -7,3 +7,4 @@ For 2024 I'm trying to do each solution in a different language:
 * day 4: COBOL
 * day 5: Java
 * day 6: C
+* day 7: OCaml
