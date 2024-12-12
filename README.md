@@ -10,3 +10,4 @@ For 2024 I'm trying to do each solution in a different language:
 * day 7: OCaml
 * day 8: Ruby
 * day 9: Perl
+* day 10: C\#
